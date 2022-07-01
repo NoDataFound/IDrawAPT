@@ -33,9 +33,9 @@ Plotting ━━━━━━━━━━━━━━━━━━━━━━━�
 ```
 ### Sample Output
 
-`Meet 'Anchor Panda' `
+`Meet 'Electric Panda' `
 
-![header-logos](https://github.com/NoDataFound/IDrawAPT/raw/main/China/AnchorPanda.png) 
+![header-logos](https://github.com/NoDataFound/IDrawAPT/raw/main/China/Electric%20Panda.png) 
 
 `Meet 'BackdoorDiplomacy' `
 ![header-logos](https://github.com/NoDataFound/IDrawAPT/blob/main/China/BackdoorDiplomacy.png)
