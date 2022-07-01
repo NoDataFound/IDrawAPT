@@ -37,6 +37,9 @@ Plotting ━━━━━━━━━━━━━━━━━━━━━━━�
 
 ![header-logos](https://github.com/NoDataFound/IDrawAPT/raw/main/China/AnchorPanda.png) 
 
+`Meet 'BackdoorDiplomacy' `
+![header-logos](https://github.com/NoDataFound/IDrawAPT/blob/main/China/BackdoorDiplomacy.png)
+
 ### `Run script against local Docker image`
 
 ![header-logos](https://img.shields.io/static/v1?label=Option1&logo=docker&message=jinaai/dalle-flow:latest&color=blue)
