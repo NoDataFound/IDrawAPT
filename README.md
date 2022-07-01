@@ -7,4 +7,4 @@
 |___| /_______  /__|  (____  /\/\_/   \____|__  /____|     |____|   
               \/           \/                 \/                    
 ```
-I am a repo that uses craiyon (and similar services) to draw APT actor names
+I am a repo that uses DALL-E mini to draw APT actor names
