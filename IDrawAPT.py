@@ -20,6 +20,6 @@ server_url = 'grpc://dalle-flow.jina.ai:51005'
 
 with open (apt_file, "r") as actor:
     for apt in actor:
-        da = Document(text=apt.strip()).post(server_url, parameters={'num_images': 2}).matches
+        da = Document(text=apt).post(server_url, parameters={'num_images': 2}).matches
         da.plot_image_sprites(output=apt.strip()+'.png', show_progress=True, canvas_size=1024, fig_size=(10,10), show_index=True)
 
