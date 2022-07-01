@@ -1,7 +1,5 @@
-
 <p align="center">
 <img align="center" width="479" height="98" src="https://github.com/NoDataFound/IDrawAPT/raw/main/res/IDA.png"></p>
-
 
 
 ![header-logos](https://img.shields.io/static/v1?label=🏴‍☠️|NameSource:&logo=cn&message=apt.threattracking.com&color=red)
