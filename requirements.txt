@@ -1,0 +1,8 @@
+streamlit
+pandas
+colorthief
+openai
+pillow
+requests
+python-dotenv
+mitreattack-python
