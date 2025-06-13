@@ -1,4 +1,14 @@
 China/.DS_Store
 .DS_Store
 .env
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+.DS_Store
+*.sqlite3
+*.log
 
